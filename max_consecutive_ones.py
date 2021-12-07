@@ -1,5 +1,5 @@
 # CORRECT 100%
-# Weekly challenge september 21, 2021
+# Weekly challenge [21/09/2021]
 
 """
 DESCRIPTION: Given a binary array nums, return the maximum number of consecutive 1's in the array.
