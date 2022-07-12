@@ -1,4 +1,6 @@
 # Correct 100%
+# Runtime: 49 ms, faster than 55.21% of Python3 online submissions for Excel Sheet Column Number.
+# Memory Usage: 13.8 MB, less than 55.26% of Python3 online submissions for Excel Sheet Column Number.
 
 """
 DESCRIPTION:
