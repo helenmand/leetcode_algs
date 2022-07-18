@@ -1,7 +1,3 @@
-# CORRECT 100%
-# Runtime: 44 ms, faster than 54.48% of Python3 online submissions for Maximum Depth of Binary Tree.
-# Memory Usage: 16 MB, less than 72.99% of Python3 online submissions for Maximum Depth of Binary Tree.
-
 """
 DESCRIPTION: Given the root of a binary tree, return its maximum depth.
 A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
