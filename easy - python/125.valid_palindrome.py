@@ -1,7 +1,3 @@
-# CORRECT 100%
-# Runtime: 1220 ms, faster than 5.08% of Python3 online submissions for First Unique Character in a String.
-# Memory Usage: 14.5 MB, less than 80.71% of Python3 online submissions for First Unique Character in a String.
-
 """
 A phrase is a palindrome if, 
 after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, 
