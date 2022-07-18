@@ -1,7 +1,3 @@
-# CORRECT 100%
-# Runtime: 1176 ms, faster than 13.39% of Python3 online submissions for Single Number.
-# Memory Usage: 16.6 MB, less than 59.02% of Python3 online submissions for Single Number.
-
 """
 DESCRIPTION: Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 You must implement a solution with a linear runtime complexity and use only constant extra space.
