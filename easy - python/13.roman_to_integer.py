@@ -1,10 +1,8 @@
 # Runtime: 46 ms, faster than 92.70% of Python3 online submissions for Roman to Integer.
 # Memory Usage: 13.8 MB, less than 75.65% of Python3 online submissions for Roman to Integer.
 
-
 """
 DESCRIPTION:
-
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 Symbol       Value
@@ -31,7 +29,6 @@ Given a roman numeral, convert it to an integer.
 
 
 TEST CASES:
-
 Input: s = "III"
 Output: 3
 Explanation: III = 3.
