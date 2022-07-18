@@ -1,7 +1,3 @@
-# CORRECT 100%
-# Runtime: 49 ms, faster than 52.89% of Python3 online submissions for Longest Common Prefix. 
-# Memory Usage: 13.9 MB, less than 71.13% of Python3 online submissions for Longest Common Prefix.
-
 """
 DESCRIPTION:
 Write a function to find the longest common prefix string amongst an array of strings.
