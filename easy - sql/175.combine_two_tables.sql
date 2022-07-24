@@ -57,5 +57,5 @@ addressId = 1 contains information about the address of personId = 2.
 select firstName, lastName, city, state
 from Person
 left join Address
-on Person.personId = Address.personId
+on Person.personId = Address.personId;
 
