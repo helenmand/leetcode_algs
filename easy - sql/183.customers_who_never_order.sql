@@ -56,4 +56,4 @@ select name as Customers
 from Customers
 left join orders
 on Orders.CustomerID = Customers.Id
-where Orders.CustomerID is null
+where Orders.CustomerID is null;
