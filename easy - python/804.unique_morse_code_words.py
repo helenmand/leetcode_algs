@@ -42,3 +42,14 @@ class Solution:
             if res not in unique:
                 unique.append(res)        
         return len(unique)
+
+        # faster solution with set
+        """
+        alph = [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
+        
+        unique = set()
+        for word in words:
+            res = ''.join(alph[ord(char) - ord('a')] for char in word)
+            unique.add(res)        
+        return len(unique)
+        """
